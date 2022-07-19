@@ -1,0 +1,57 @@
+.navrenk {
+    background-color: #3F5C9A !important;
+}
+
+.navinputtexttt {
+    border-radius: 0px !important;
+    max-height: 22px;
+    max-width: 148px;
+}
+
+.navbuttonnn {
+    padding: 0px;
+    width: 65px;
+    background-color: #4267B2;
+}
+
+.label1 {
+    position: absolute;
+    margin-top: -40px;
+    font-size: 12px;
+    font-family: arial;
+}
+
+.label2 {
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 163px;
+    font-size: 12px;
+    font-family: arial;
+}
+
+.link1 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 163px;
+    font-size: 12px;
+    font-family: arial;
+    color: #9CB4D8;
+}
+
+.dtarihi {
+    padding: 0px;
+    border-radius: 0px;
+    width: 60px;
+    height: 30px;
+}
+
+.gradian {
+    background: linear-gradient(white, #D3D8E8);
+    background: -webkit-linear-gradient(white, #D3D8E8);
+    background: -moz-linear-gradient(white, #D3D8E8);
+    background: -o-linear-gradient(white, #D3D8E8);
+}
+
+.gradianbuton {
+    background: linear-gradient(#6DB35A, #578843);
+}
